@@ -46,8 +46,7 @@ background-color:teal;">
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
           <h6 class="text-uppercase fw-bold mb-4 text-dark">
-          <img src="logofa.jpg" alt="ANIL" width="40" height="38"  style="margin-right:1px; border-radius:11px;">
-Financial Advisor
+            <i class="fas fa-gem me-3 text-dark"></i>Financial Advisor
           </h6>
           <p>
             Planning is bringing the future into the present so that you can do something about it now.
